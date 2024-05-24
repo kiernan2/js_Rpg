@@ -8,7 +8,7 @@
 
 * _Html_
 * _JS_
-* _Web pack_
+* _Web pack/Node_
 * _No actual game engine_
 
 ## Description
@@ -28,6 +28,6 @@
 * _Forever in early access will not receive developer updates_
 * _Why are you still reading this?_
 
-## License MIT
+## License Copyright (c) _2024_ _Kiernan Beattie_ [MIT](LICENSE.txt) 
 
 ## Contact Information (Kiernan1994@gmail.com)
